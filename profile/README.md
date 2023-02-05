@@ -1,4 +1,7 @@
-## 欢迎大家成为VFans DAO的贡献者，踏上共同创建去中心化社区的征途 👋
+## 欢迎大家成为VFANS DAO的贡献者，踏上共同创建去中心化社区的征途 👋
+Welcome to VFANS DAO and joining us to build the Decentrialized Content Commmunity together.
+
+We are still in the devlopment stage of pilot product, so most of our Repos are still private. We will open up by phases after our products are launched. 
 
 ### 使命与愿景
 使命： 建立去中心化的创作者社区，建增加创作者收入，为用户持续产出高质量的内容。
