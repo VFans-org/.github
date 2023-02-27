@@ -17,6 +17,9 @@ b.代币分配 <br>
 c.社区提案和投票 <br>
 d.代币分红和代币回购 <br>
 
+## What’s VFans Token (VFT)?
+VFans will maintain two transaction systems:  currency for subscription payment and cryptocurrency (VFT) for ownership. VFT is the governance token distributed to active participants in delivering VFans’ mission. VFT represents a share in VFans community, which has a claim on ownership of community and can be used to pay for community goods, vote community policies, receive public profit payout, and earn investment return.
+
 <!--
 
 **Here are some ideas to get you started:**
